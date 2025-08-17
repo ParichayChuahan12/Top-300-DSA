@@ -36,7 +36,22 @@
 
 ---
 
-## 🛠️ How to Use  
+## 🎯 Goals  
 
-```bash
-git clone https://github.com/your-username/DSA-300-Questions.git
+- 🔥 Build strong problem-solving skills  
+- 💡 Master **Arrays, Trees, Stacks, Queues, Linked Lists, Bitmasking**  
+- 🏆 Get ready for **coding interviews & contests**  
+
+---
+
+## 🙌 Acknowledgements  
+
+- Problems from **LeetCode, GeeksforGeeks**  
+- Support from mentors, peers & the coding community ❤️  
+
+---
+
+<p align="center">
+  ✨ This repo is my <b>student journey</b> through DSA ✨ <br>
+  ⭐ Star the repo if you find it useful!
+</p>
