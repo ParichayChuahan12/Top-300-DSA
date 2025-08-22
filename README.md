@@ -26,7 +26,7 @@
 ## 📈 Progress Tracker  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arrays-50%2F50-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arrays-100%2F100-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Trees-0%2F60-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Stacks-0%2F40-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Queues-0%2F40-yellow?style=for-the-badge" />
